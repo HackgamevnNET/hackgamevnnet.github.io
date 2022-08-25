@@ -1,1 +1,6 @@
-table{}
+.list1{line-height:23px;border-left:1px solid #afbbd7;border-right:1px solid #afbbd7;border-bottom:1px dotted #afbbd7;padding:4px 2px}
+.list1:nth-child(odd){background:#fff}
+.list1:nth-child(even){background:#fbf8f8}
+.list1:first-child{margin-top:3px;border-top:solid #afbbd7 1px}
+.list1:last-child{border-bottom:solid #afbbd7 1px}
+.list-thread-1{padding:1px 3px 1px 5px;margin:1px}
