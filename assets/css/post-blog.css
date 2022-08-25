@@ -4,3 +4,5 @@
 .list1:first-child{margin-top:3px;border-top:solid #afbbd7 1px}
 .list1:last-child{border-bottom:solid #afbbd7 1px}
 .list-thread-1{padding:1px 3px 1px 5px;margin:1px}
+.hanh-table{width:100%;text-align:left}
+.hanh-table .td-30{width:30%}table.hanh-table .td-70{width:70%}
